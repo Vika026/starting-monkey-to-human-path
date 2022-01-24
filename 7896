@@ -1,0 +1,13 @@
+using System;
+namespace Кичунова_202
+{
+class Program
+{
+static void Main (string[] args)
+{
+Console.Writeline("Кичунова");
+Console.Writeline("202 группа");
+Console.Writeline();
+}
+}
+}
